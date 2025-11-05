@@ -3,7 +3,7 @@ function App() {
     <body className="">
       <div
         className="2xl:block hidden h-screen bg-cover"
-        style={{ backgroundImage: 'url("/images/frontpage.jpg")' }}
+        style={{ backgroundImage: 'url("/images/frontpage2.jpg")' }}
       >
         <div className="h-2/6"></div>
         <div className="h-4/6 w-4/6">
@@ -81,12 +81,12 @@ function App() {
             </div>
             <div className="py-4">
               <img
-                src="/images/articleimage01.jpg"
+                src="/images/ingredienser.jpg"
                 alt=""
                 className="h-96 w-full object-cover"
               />
               <div className="text-center text-sm tracking-wider font-mono">
-                En ny bølge vil komme.
+                Ved å kombinere flere virkemidler lages det en bedre historien.
               </div>
             </div>
             <div className="text-3xl font-bold mb-3">
