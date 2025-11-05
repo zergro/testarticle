@@ -8,14 +8,14 @@ function App() {
         <div className="h-2/6"></div>
         <div className="h-4/6 w-4/6">
           <div className="p-20 space-y-5 text-white">
-            <div className="font-sans tracking-wider font-semibold">NORGE</div>
+            <div className="font-sans tracking-wider font-semibold">VALDRES</div>
             <div className="font-serif font-extrabold text-7xl">
               Vi trenger alle god journalistikk
             </div>
             <div className="font-sans text-2xl w-4/6">
-              Norge blir rangert som et av verdens beste land å bo i, så hvorfor
-              gjør vi ikke mer for at andre skal få det bedre? Eksport av en
-              journalistikkplattform kan være svaret.
+              Norge blir rangert som et av verdens beste land å bo i, og jeg tror at Valdres
+              er den beste plassen å bo. Erling Rognhaugen (29) søker på jobben som frontsjef
+              og nyhetsjeger, men vil han få det i Avisa Valdres?
             </div>
           </div>
         </div>
@@ -37,7 +37,7 @@ function App() {
             Vi trenger alle god journalistikk
           </div>
           <div className="font-sans text-2xl">
-            Erling Rognhaugen (29) søker jobb som frontsjef og nyhetsjeger i Valdres Avisa, men vil han får jobben? 
+            Erling Rognhaugen (29) søker jobb som frontsjef og nyhetsjeger i Valdres Avisa, men vil han får jobben?
           </div>
         </div>
       </div>
@@ -55,42 +55,31 @@ function App() {
               <div class="md:px-8 text-center md:text-left space-y-4">
                 <blockquote>
                   <p class="text-lg font-semibold">
-                    “Jeg skriver for at du skal kunne oppleve ulikhetene som
-                    skjer rundt om i verden.”
+                    "Jeg vil kunne hjelpe Avisa Valdres med å bli enda litt"
                   </p>
                 </blockquote>
                 <figcaption class="font-medium">
                   <div class="text-cyan-600">Erling Rognhaugen</div>
-                  <div class="text-gray-500"> Freelancejournalist, Øystre Slidre</div>
+                  <div class="text-gray-500">Øystre Slidre</div>
                 </figcaption>
               </div>
             </figure>
           </div>
           <div className="leading-relaxed text-2xl tracking-wide">
             <div className="mb-10">
-              <span className="font-serif text-6xl pr-2">L</span>orem ipsum
-              dolor sit amet, consectetur adipiscing elit. Nam dignissim ligula
-              id leo aliquam semper. Sed tempor elementum diam, eget facilisis
-              arcu eleifend ut. Nullam sit amet nulla vitae mauris aliquam
-              rhoncus eget ut leo. Suspendisse auctor porta ex sit amet
-              vehicula. Quisque pharetra augue a risus sodales interdum. Morbi
-              pharetra tristique urna ut lacinia. Cras lobortis, massa ut porta
-              dapibus, justo orci laoreet leo, non tincidunt neque nunc eget
-              elit. Morbi a purus venenatis, laoreet nisi eget, dictum dui. In
-              hac habitasse platea dictumst. Etiam eleifend tempus tellus, eget
-              bibendum tellus molestie eget. Proin condimentum purus ut dolor
-              ultricies, sit amet ullamcorper nunc efficitur. Aenean quis lacus
-              id urna ullamcorper venenatis a interdum ipsum. Fusce mollis
-              turpis ac leo viverra, a tincidunt metus feugiat.
+              <span className="font-serif text-6xl pr-2">H</span>ei, se det! Jeg heter Erling Rognhaugen (M29), tilflytter til Øystre Slidre fra Kristiansand, og jeg søker denne stillingen fordi jeg er motivert av å fortelle historier som blir husket. Jeg er spesielt motivert av å skape god digital trafikk og har gode ideer for å sette dagsorden i Valdres. Jeg har de nødvendige ferdighetene, inkludert en digital og dramaturgisk kompetanse som skiller seg ut.
             </div>
             <div className="mb-10">
-              Etiam scelerisque lorem ut ex hendrerit porta. Sed massa ante,
-              elementum et est eget, finibus egestas ex. Duis in venenatis sem.
-              Sed placerat nulla nec felis malesuada, eget porta lacus suscipit.
-              Sed faucibus ex ac consequat vehicula. Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit. Praesent metus ante, vehicula et
-              dapibus et, gravida sit amet sapien. Curabitur porta libero vel ex
-              venenatis, a semper urna semper.
+            De fleste ønsker å fortelle om seg selv, vi elsker dette, men bare noen få blir faktisk lyttet til. Det viktigste, tror jeg, er hvordan en historie blir fortalt, og så er det nest viktigste hva historien handler om.
+            </div>
+            <div className="mb-10">
+            Det var en gang da jeg studerte journalistikk i Volda og trodde at dette var den rette veien for meg, og jeg satt fremoverlent i vår lokale redaksjon og var nysgjerrig og gravde i mange saker. En spesiell handlet om håndtering av asbest i rådhuset, der det var store reparasjoner uten at de ansatte fikk jobbet en annen plass, og som pustet dette inn, inn og ut, hver dag dette foregikk, inn og ut. Asbeststøv er nesten usynlig, eller det er så lite at vi ikke ser det, så historien er vanskelig å visualisere. Som student var løsningen min den samme, og jeg gikk ned til Rådhuset og tok et bilde av inngangspartiet med et skilt der det stod "Volda Rådhus". Dette ble forsidebildet, som sier absolutt nada om selve historien, den hjelper den ikke nevneverdig, kanskje til og med ødelegger det for saken, for på forsiden vil saken, som egentlig var bra, virke kjedelig. Dette ønsker jeg aldri å gjøre igjen.
+            </div>
+            <div className="mb-10">
+            Baktanken bak skrivestilen i teksten over er å illustrere at aviser setter punktum. Alle andre tar forhåpentligvis et innpust og utpust som en liten pause før de fortsetter å fortelle sin historie. Jeg vet at en effektiv frontsjef må tørre å utfordre formen for å trekke folk inn, og jeg ønsker aldri å velge et dårlig forsidebilde igjen. Punktumet stopper en fortelling, samtidig som det kan starte en ny etterpå. Det skrevne ordet er mektig, gøyalt og tankevekkende, avisene er regissøren til historien og frontsjefens ansvar er å finne disse elementene som vil trekker folk inn.
+            </div>
+            <div className="mb-10">
+            Hva ville jeg gjort annerledes nå om jeg skulle dekket aspestsaken på nytt? Hovedregelen min er å prøve å fortelle en historie i flere lag, som en kokk jobber for å lage en lengre smak ved å kombinere surt, salt, sødme og bittert, må journalistikken også bruke flere virkemidler. På andre siden av rådhuset var det et nytt fint bygg, ubrukt. Jeg kunne ha kontaktet eieren og spurt om å ta et bilde. Bildet ville hatt en ramme av et moderne vindu med utsikt over et slitt rådhus i solnedgang. Siden et menneske står bak enhver historie, så kunne et telelinsebilde av kommunesjefen for drift, som hadde unngått å svare på spørsmål i lang tid, men som går ut av bygget, være modig. Dette vil også kunne skape reaksjoner. Eller så kan det også være videointervjuer hvor alt man ser er en munn, som snakker og puster inn og ut. Disse vurderingene er viktig å ta som en redaksjon, og min kunsteriske bakgrunn gjør at jeg tenker mer på muligheter enn begrensninger, selv om lov og Vær varsomplakaten alltid skal være styrende. 
             </div>
             <div className="py-4">
               <img
@@ -103,44 +92,26 @@ function App() {
               </div>
             </div>
             <div className="text-3xl font-bold mb-3">
-              God journalistikk trenger tid og penger.
+              Erling vil gjerne ha jobben.
             </div>
             <div className="mb-10">
-              Nunc eget ex ullamcorper, tristique sem ut, aliquam dui. Phasellus
-              ullamcorper dignissim justo, nec convallis erat luctus in. Morbi
-              ut nisi nulla. Suspendisse in sem quis nisi elementum eleifend.
-              Cras tempus eros et eros molestie consequat. Nulla justo lectus,
-              facilisis suscipit tellus non, sagittis rhoncus sem. Proin non
-              mauris purus. Proin sed tincidunt quam. Nullam gravida, turpis
-              quis convallis elementum, magna mauris bibendum lorem, eu interdum
-              elit dolor sit amet nisi.
+            Jeg har de kvalifikasjonene dere ser etter og jeg trives i en hektisk hverdag og vet hvordan jeg hånterer at det "koker". Jeg er nysgjerrig og åpen, og som nyhetsjeger er jeg klar til å rykke ut raskt for å dekke hendelser og sikre at Valdres er først ute med viktig informasjon. Jeg har en grunnleggende kunnskap i programmering i både frontend og backend og har jobbet i en prosjektstilling for Le Monde Diplomatique Norge med å oppgradere deres nettside (LMD.no). Dette er en unik styrke for Avisa Valdres' digitale satsing og fokus på digital trafikk. Jeg kan også fly drone bare for å legge til det :)
             </div>
             <div className="mb-10">
-              Vivamus cursus sem quis tincidunt placerat. Quisque libero quam,
-              porttitor quis tempor vitae, molestie non arcu. Aenean a congue
-              diam, in facilisis felis. Vestibulum ante ipsum primis in faucibus
-              orci luctus et ultrices posuere cubilia curae; Nulla sed libero a
-              tortor aliquet finibus vitae ac nulla. Aenean aliquet ut purus
-              vitae sodales. Integer auctor lacus quis leo venenatis lacinia.
-              Mauris dignissim dolor nec odio eleifend porta. Duis vehicula
-              aliquam dolor sed viverra. Vestibulum elementum sem non enim
-              suscipit, nec elementum risus congue. Nulla in pellentesque lacus.
-              Sed eu augue aliquet, dapibus nibh eget, venenatis justo. Nam
-              hendrerit nisl sed ante venenatis, at rhoncus felis sodales.
-              Nullam elementum quam eu mauris accumsan consequat ac sit amet
-              ligula. Nullam venenatis lacinia ante in vestibulum.
+            Det spennende med denne stillingen er å jobbe for å nå ut til flere brukere. Jeg liker muligheten dere tilbyr for brukerdeltakelse ved å legge inn et arrangement på nettsiden. En avis er i mine øyne er en plattform, en møteplass, og den kan hele tiden jobbes med for å være den naturlige plassen man sjekker ut i løpet av dagen.
             </div>
             <div className="mb-10">
-              Duis sodales nisl et odio feugiat fringilla. Morbi congue sem non
-              nisi blandit, a elementum mi tristique. Proin imperdiet ultrices
-              turpis sed maximus. Quisque gravida ante dapibus elit hendrerit, a
-              ultrices sapien semper. Morbi vel odio ligula. Morbi ac fermentum
-              nunc, ac imperdiet sem. Pellentesque eu euismod erat, a posuere
-              arcu. Etiam eget enim mi. Donec est libero, laoreet a nunc quis,
-              mattis lacinia urna. Donec et lobortis ligula, id consequat diam.
-              Nulla pellentesque fermentum nulla at dictum. Proin commodo
-              faucibus eros aliquet tincidunt. Phasellus fringilla purus vitae
-              ante tincidunt pharetra.
+            Jeg føler meg klar til å gå tilbake til journalistikken, og på veien etter studiet i Volda har jeg tatt på meg andre roller som kokk, regissør, lydtekniker, filmfotograf, kunstner, lærer, webutvikler og skribent. En gryte full av variasjon kan du si, men som koker ned til å handle om å bli hørt, å bli sett, smake godt og sette et punktum. 
+            </div>
+            <div className="mb-10">
+            Jeg skal ikke lyve, jeg har veldig lyst på denne jobben. Jeg tror jeg vil vokse med ansvaret som person og utvikle meg faglig. Og dette vil kunne hjelpe Avisa Valdres med å bli enda litt råere!
+            </div>
+            <div className="mb-10">
+            Med vennlig hilsen, <br></br> 
+            Erling Rognhaugen
+            <br></br><br></br>
+            Mob. 91577993 <br></br>
+            Epost. Erlingrognhaugen@hotmail.com
             </div>
           </div>
         </div>
