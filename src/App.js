@@ -13,7 +13,7 @@ function App() {
               Vi trenger alle god journalistikk
             </div>
             <div className="font-sans text-2xl w-4/6">
-            Erling Rognhaugen (29) søker jobb som frontsjef og nyhetsjeger i Valdres Avisa, men vil han får jobben?
+            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han får jobben?
             </div>
           </div>
         </div>
@@ -21,11 +21,11 @@ function App() {
       <div className="2xl:hidden block mx-auto p-20">
         <img
           className="h-96 w-full bg-cover mx-auto"
-          src="/images/frontpage.jpg"
+          src="/images/frontpage2.jpg"
           alt=""
         />
         <div className="text-center text-sm tracking-wider font-mono">
-          En ny bølge vil komme.
+          Er dette den beste plassen å bo i Norge?
         </div>
         <div className="mt-20">
           <div className="font-sans tracking-wider font-semibold text-center">
@@ -35,7 +35,7 @@ function App() {
             Vi trenger alle god journalistikk
           </div>
           <div className="font-sans text-2xl">
-            Erling Rognhaugen (29) søker jobb som frontsjef og nyhetsjeger i Valdres Avisa, men vil han får jobben?
+            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han får jobben?
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@ function App() {
                   </p>
                 </blockquote>
                 <figcaption class="font-medium">
-                  <div class="text-cyan-600">Erling Rognhaugen</div>
+                  <div class="text-cyan-600">Erling Rognhaugen (29)</div>
                   <div class="text-gray-500">Øystre Slidre</div>
                 </figcaption>
               </div>
@@ -77,7 +77,7 @@ function App() {
             Baktanken bak skrivestilen i teksten over er å illustrere at aviser setter punktum. Alle andre tar forhåpentligvis et innpust og utpust som en liten pause før de fortsetter å fortelle sin historie. Jeg vet at en effektiv frontsjef må tørre å utfordre formen for å trekke folk inn, og jeg ønsker aldri å velge et dårlig forsidebilde igjen. Punktumet stopper en fortelling, samtidig som det kan starte en ny etterpå. Det skrevne ordet er mektig, gøyalt og tankevekkende, avisene er regissøren til historien og frontsjefens ansvar er å finne disse elementene som vil trekker folk inn.
             </div>
             <div className="mb-10">
-            Hva ville jeg gjort annerledes nå om jeg skulle dekket aspestsaken på nytt? Hovedregelen min er å prøve å fortelle en historie i flere lag, som en kokk jobber for å lage en lengre smak ved å kombinere surt, salt, sødme og bittert, må journalistikken også bruke flere virkemidler. På andre siden av rådhuset var det et nytt fint bygg, ubrukt. Jeg kunne ha kontaktet eieren og spurt om å ta et bilde. Bildet ville hatt en ramme av et moderne vindu med utsikt over et slitt rådhus i solnedgang. Siden et menneske står bak enhver historie, så kunne et telelinsebilde av kommunesjefen for drift, som hadde unngått å svare på spørsmål i lang tid, men som går ut av bygget, være modig. Dette vil også kunne skape reaksjoner. Eller så kan det også være videointervjuer hvor alt man ser er en munn, som snakker og puster inn og ut. Disse vurderingene er viktig å ta som en redaksjon, og min kunsteriske bakgrunn gjør at jeg tenker mer på muligheter enn begrensninger, selv om lov og Vær varsomplakaten alltid skal være styrende. 
+            Hva ville jeg gjort annerledes nå om jeg skulle dekket aspestsaken på nytt? Hovedregelen min er å prøve å fortelle en historie i flere lag, som en kokk jobber for å lage en lengre smak ved å kombinere surt, salt, sødme og bittert, må journalistikken også bruke flere virkemidler. På andre siden av rådhuset var det et nytt fint bygg, ubrukt. Jeg kunne ha kontaktet eieren og spurt om å ta et bilde. Bildet ville hatt en ramme av et moderne vindu med utsikt over et slitt rådhus i solnedgang. Siden et menneske står bak enhver historie, så kunne et telelinsebilde av kommunesjefen for drift, som hadde unngått å svare på spørsmål i lang tid, men som går ut av bygget, være modig. Dette vil også kunne skape reaksjoner. Eller så kan det også være videointervjuer hvor alt man ser er en munn, som snakker og puster inn og ut. Disse vurderingene er viktig å ta som en redaksjon, og min kunsteriske bakgrunn gjør at jeg tenker mer på muligheter enn begrensninger, selv om Loven og Vær varsomplakaten alltid skal være styrende. 
             </div>
             <div className="py-4">
               <img
