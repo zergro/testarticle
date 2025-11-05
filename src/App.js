@@ -31,15 +31,13 @@ function App() {
         </div>
         <div className="mt-20">
           <div className="font-sans tracking-wider font-semibold text-center">
-            NORGE
+            Valdres
           </div>
           <div className="font-serif font-extrabold text-7xl text-center mb-10">
             Vi trenger alle god journalistikk
           </div>
           <div className="font-sans text-2xl">
-            Norge blir rangert som et av verdens beste land å bo i, så hvorfor
-            gjør vi ikke mer for at andre skal få det bedre? Eksport av en
-            journalistikkplattform kan være svaret.
+            Erling Rognhaugen (29) søker jobb som frontsjef og nyhetsjeger i Valdres Avisa, men vil han får jobben? 
           </div>
         </div>
       </div>
@@ -63,7 +61,7 @@ function App() {
                 </blockquote>
                 <figcaption class="font-medium">
                   <div class="text-cyan-600">Erling Rognhaugen</div>
-                  <div class="text-gray-500"> Freelancejournalist, Norge</div>
+                  <div class="text-gray-500"> Freelancejournalist, Øystre Slidre</div>
                 </figcaption>
               </div>
             </figure>
