@@ -13,9 +13,7 @@ function App() {
               Vi trenger alle god journalistikk
             </div>
             <div className="font-sans text-2xl w-4/6">
-              Norge blir rangert som et av verdens beste land å bo i, og jeg tror at Valdres
-              er den beste plassen å bo. Erling Rognhaugen (29) søker på jobben som frontsjef
-              og nyhetsjeger, men vil han få det i Avisa Valdres?
+            Erling Rognhaugen (29) søker jobb som frontsjef og nyhetsjeger i Valdres Avisa, men vil han får jobben?
             </div>
           </div>
         </div>
@@ -55,7 +53,7 @@ function App() {
               <div class="md:px-8 text-center md:text-left space-y-4">
                 <blockquote>
                   <p class="text-lg font-semibold">
-                    "Jeg vil kunne hjelpe Avisa Valdres med å bli enda litt"
+                    "Jeg vil kunne hjelpe Avisa Valdres med å bli enda litt råere"
                   </p>
                 </blockquote>
                 <figcaption class="font-medium">
@@ -67,13 +65,13 @@ function App() {
           </div>
           <div className="leading-relaxed text-2xl tracking-wide">
             <div className="mb-10">
-              <span className="font-serif text-6xl pr-2">H</span>ei, se det! Jeg heter Erling Rognhaugen (M29), tilflytter til Øystre Slidre fra Kristiansand, og jeg søker denne stillingen fordi jeg er motivert av å fortelle historier som blir husket. Jeg er spesielt motivert av å skape god digital trafikk og har gode ideer for å sette dagsorden i Valdres. Jeg har de nødvendige ferdighetene, inkludert en digital og dramaturgisk kompetanse som skiller seg ut.
+              <span className="font-serif text-6xl pr-2">H</span>ei, se det! Jeg heter Erling Rognhaugen, tilflytter til Øystre Slidre fra Kristiansand, og jeg søker denne stillingen fordi jeg er motivert av å fortelle historier som blir husket. Jeg er spesielt motivert av å skape god digital trafikk og har mange ideer for å sette dagsorden i Valdres. Jeg har de nødvendige ferdighetene, inkludert en digital og dramaturgisk kompetanse som skiller seg ut.
             </div>
             <div className="mb-10">
             De fleste ønsker å fortelle om seg selv, vi elsker dette, men bare noen få blir faktisk lyttet til. Det viktigste, tror jeg, er hvordan en historie blir fortalt, og så er det nest viktigste hva historien handler om.
             </div>
             <div className="mb-10">
-            Det var en gang da jeg studerte journalistikk i Volda og trodde at dette var den rette veien for meg, og jeg satt fremoverlent i vår lokale redaksjon og var nysgjerrig og gravde i mange saker. En spesiell handlet om håndtering av asbest i rådhuset, der det var store reparasjoner uten at de ansatte fikk jobbet en annen plass, og som pustet dette inn, inn og ut, hver dag dette foregikk, inn og ut. Asbeststøv er nesten usynlig, eller det er så lite at vi ikke ser det, så historien er vanskelig å visualisere. Som student var løsningen min den samme, og jeg gikk ned til Rådhuset og tok et bilde av inngangspartiet med et skilt der det stod "Volda Rådhus". Dette ble forsidebildet, som sier absolutt nada om selve historien, den hjelper den ikke nevneverdig, kanskje til og med ødelegger det for saken, for på forsiden vil saken, som egentlig var bra, virke kjedelig. Dette ønsker jeg aldri å gjøre igjen.
+            Det var en gang da jeg studerte journalistikk i Volda og trodde at dette var den rette veien for meg, og jeg satt fremoverlent i vår lokale redaksjon og var nysgjerrig og gravde i mange saker, og en spesiell sak handlet om håndtering av asbest i rådhuset, der det var store reparasjoner uten at de ansatte fikk jobbet en annen plass, og som pustet dette inn, inn og ut, hver dag dette foregikk, inn og ut, og asbeststøv er nesten usynlig, eller det er så lite at vi ikke ser det, så historien er vanskelig å visualisere, som student var løsningen min å gå ned til Rådhuset og ta et bilde av inngangspartiet med et skilt der det stod "Volda Rådhus", og dette ble forsidebildet, som sier absolutt nada om selve historien, den hjelper den ikke nevneverdig, kanskje til og med ødelegger det for saken, for på forsiden vil saken, som egentlig var bra, virke kjedelig og dette ønsker jeg aldri å gjøre igjen.
             </div>
             <div className="mb-10">
             Baktanken bak skrivestilen i teksten over er å illustrere at aviser setter punktum. Alle andre tar forhåpentligvis et innpust og utpust som en liten pause før de fortsetter å fortelle sin historie. Jeg vet at en effektiv frontsjef må tørre å utfordre formen for å trekke folk inn, og jeg ønsker aldri å velge et dårlig forsidebilde igjen. Punktumet stopper en fortelling, samtidig som det kan starte en ny etterpå. Det skrevne ordet er mektig, gøyalt og tankevekkende, avisene er regissøren til historien og frontsjefens ansvar er å finne disse elementene som vil trekker folk inn.
