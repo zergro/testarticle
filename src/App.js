@@ -13,7 +13,7 @@ function App() {
               Vi trenger alle god journalistikk
             </div>
             <div className="font-sans text-2xl w-4/6">
-            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han får jobben?
+            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han få jobben?
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@ function App() {
             Vi trenger alle god journalistikk
           </div>
           <div className="font-sans text-2xl">
-            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han får jobben?
+            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han få jobben?
           </div>
         </div>
       </div>
