@@ -93,10 +93,10 @@ function App() {
               Erling vil gjerne ha jobben.
             </div>
             <div className="mb-10">
-            Jeg har de kvalifikasjonene dere ser etter og jeg trives i en hektisk hverdag og vet hvordan jeg hånterer at det "koker". Jeg er nysgjerrig og åpen, og som nyhetsjeger er jeg klar til å rykke ut raskt for å dekke hendelser og sikre at Valdres er først ute med viktig informasjon. Jeg har en grunnleggende kunnskap i programmering i både frontend og backend og har jobbet i en prosjektstilling for Le Monde Diplomatique Norge med å oppgradere deres nettside (LMD.no). Dette er en unik styrke for Avisa Valdres' digitale satsing og fokus på digital trafikk. Jeg kan også fly drone bare for å legge til det :)
+            Jeg har de kvalifikasjonene dere ser etter og jeg trives i en hektisk hverdag og vet hvordan jeg håndterer at det "koker". Jeg er nysgjerrig og åpen, og som nyhetsjeger er jeg klar til å rykke ut raskt for å dekke hendelser og sikre at Valdres er først ute med viktig informasjon. Jeg har en grunnleggende kunnskap i programmering i både frontend og backend og har jobbet i en prosjektstilling for Le Monde Diplomatique Norge med å oppgradere deres nettside (LMD.no). Dette er en unik styrke for Avisa Valdres' digitale satsing og fokus på digital trafikk. Jeg kan også fly drone bare for å legge til det :)
             </div>
             <div className="mb-10">
-            Det spennende med denne stillingen er å jobbe for å nå ut til flere brukere. Jeg liker muligheten dere tilbyr for brukerdeltakelse ved å legge inn et arrangement på nettsiden. En avis er i mine øyne er en plattform, en møteplass, og den kan hele tiden jobbes med for å være den naturlige plassen man sjekker ut i løpet av dagen.
+            Det spennende med denne stillingen er å jobbe for å nå ut til flere brukere. Jeg liker muligheten dere tilbyr for brukerdeltakelse ved å legge inn et arrangement på nettsiden. En avis er i mine øyne er en plattform, en møteplass, og det skal hele tiden jobbes for å være den naturlige plassen som brukere oppsøker for å skaffe eller finne informasjon.
             </div>
             <div className="mb-10">
             Jeg føler meg klar til å gå tilbake til journalistikken, og på veien etter studiet i Volda har jeg tatt på meg andre roller som kokk, regissør, lydtekniker, filmfotograf, kunstner, lærer, webutvikler og skribent. En gryte full av variasjon kan du si, men som koker ned til å handle om å bli hørt, å bli sett, smake godt og sette et punktum. 
