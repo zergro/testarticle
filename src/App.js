@@ -3,7 +3,7 @@ function App() {
     <body className="">
       <div
         className="2xl:block hidden h-screen bg-cover"
-        style={{ backgroundImage: 'url("/images/frontpage2.jpg")' }}
+        style={{ backgroundImage: 'url("/images/frontpage.jpg")' }}
       >
         <div className="h-2/6"></div>
         <div className="h-4/6 w-4/6">
