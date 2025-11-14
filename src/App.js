@@ -21,7 +21,7 @@ function App() {
       <div className="2xl:hidden block mx-auto p-20">
         <img
           className="h-96 w-full bg-cover mx-auto"
-          src="/images/frontpage2.jpg"
+          src="/images/frontpage.jpg"
           alt=""
         />
         <div className="text-center text-sm tracking-wider font-mono">
