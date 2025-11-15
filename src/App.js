@@ -88,7 +88,7 @@ function App() {
             <div className="mb-10">
               Den gode saken ble pakket inn i et kjedelig bilde. Et dårlig valg. Og viktigst: en erfaring jeg aldri har glemt.            </div>
             <div className="mb-10">
-              I dag ville jeg gjort det annerledes. Jeg ville vist kontraster: et nytt bygg i forgrunnen, rådhuset i solnedgang, eller et telelinsebilde av driftssjefen som unngår spørsmål. Jeg ville brukt flere lag med virkemidler – som en kokk som balanserer surt, salt, søtt og bittert. For en sak som handler om liv og helse, fortjener en form som løfter den, ikke skjuler den.            </div>
+              I dag ville jeg gjort det annerledes. Jeg ville vist kontraster: et nytt bygg i forgrunnen, rådhuset i solnedgang, eller et telelinsebilde av driftssjefen fordi han unngår å ta ansvar og svare på spørsmål. Jeg ville brukt flere lag med virkemidler – som en kokk som balanserer surt, salt, søtt og bittert. For en sak som handler om liv og helse, fortjener en form som løfter den, ikke skjuler den.            </div>
             <div className="py-4">
               <img
                 src="/images/volda-radhus-aktiv.jpg"
@@ -96,7 +96,7 @@ function App() {
                 className="h-96 w-full object-cover"
               />
               <div className="text-center text-sm tracking-wider font-mono">
-                ILLUSTRASJON: Kombinert med en engasjerende tekst vil et aktivt bilde levendegjøre historien.
+                ILLUSTRASJON: Kombinert med en engasjerende tekst vil et aktivt bilde av hovedpersonen i artikkelen levendegjøre historien.
               </div>
             </div>
             <div className="text-3xl font-bold mb-3">
@@ -107,7 +107,7 @@ function App() {
             <div className="text-3xl font-bold mb-3">
               Hva jeg kan bidra med i Avisa Valdres
             </div>
-            <ul>
+            <ul className="list-disc pl-6">
               <li>Rask og presis nyhetsjakt</li>
               <li>Sterkt visuelt blikk og dramaturgisk forståelse</li>
               <li>Erfaring som regissør, filmfotograf, lydtekniker og webutvikler</li>
