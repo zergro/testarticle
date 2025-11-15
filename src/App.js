@@ -107,14 +107,14 @@ function App() {
             <div className="text-3xl font-bold mb-3">
               Hva jeg kan bidra med i Avisa Valdres
             </div>
-            <ul>
-              <li>Rask og presis nyhetsjakt</li>
-              <li>Sterkt visuelt blikk og dramaturgisk forståelse</li>
-              <li>Erfaring som regissør, filmfotograf, lydtekniker og webutvikler</li>
-              <li>Programmeringskompetanse i både frontend og backend</li>
-              <li>Erfaring fra Le Monde Diplomatique Norge med digital oppgradering av nettsiden</li>
-              <li>Droneflyging (alltid nyttig!)</li>
-            </ul>
+            <li>
+              <ul>Rask og presis nyhetsjakt</ul>
+              <ul>Sterkt visuelt blikk og dramaturgisk forståelse</ul>
+              <ul>Erfaring som regissør, filmfotograf, lydtekniker og webutvikler</ul>
+              <ul>Programmeringskompetanse i både frontend og backend</ul>
+              <ul>Erfaring fra Le Monde Diplomatique Norge med digital oppgradering av nettsiden</ul>
+              <ul>Droneflyging (alltid nyttig!)</ul>
+            </li>
             <div className="mb-10">
               Jeg trives når det koker, og jeg er vant til å jobbe i kryssfeltet mellom kreativitet, teknologi og journalistikk. For meg er avisa en plattform – en møteplass – og jeg vil jobbe for at Avisa Valdres blir stedet folk oppsøker først, enten de leter etter informasjon, engasjement eller tilhørighet.
             </div>
