@@ -100,12 +100,12 @@ function App() {
               </div>
             </div>
             <div className="text-3xl font-bold mb-3">
-              Hvorfor jeg forteller dette
+              Hvorfor forteller jeg dette?
             </div>
             <div className="mb-10">
-              Fordi en frontsjef setter punktum. Et punktum som kan vekke nysgjerrighet, drive leseren videre – eller stoppe dem helt. Jeg vil være en frontsjef som tør å utfordre formen, som ser de små mulighetene i det store bildet, og som aldri velger et dårlig forsidebilde igjen.            </div>
+              Fordi en frontsjef setter punktum. Et punktum som kan vekke nysgjerrighet, drive leseren videre – eller stoppe dem helt. Jeg vil være en frontsjef som tør å utfordre formen, som ser de unike mulighetene i det store bildet, og som aldri velger virkemidler som hjelper med å selge historien.</div>
             <div className="text-3xl font-bold mb-3">
-              Hva jeg kan bidra med i Avisa Valdres
+              Dette kan jeg bidra med i Avisa Valdres:
             </div>
             <ul className="list-disc pl-6">
               <li>Rask og presis nyhetsjakt</li>
