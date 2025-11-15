@@ -135,6 +135,7 @@ function App() {
           </div>
           <div className="mt-20 p-5 bg-white"></div>
         </div>
+      </div>
     </body>
   );
 }
