@@ -13,7 +13,7 @@ function App() {
               Vi trenger alle god journalistikk
             </div>
             <div className="font-sans text-2xl w-4/6">
-            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han få jobben?
+              Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han få jobben?
             </div>
           </div>
         </div>
@@ -32,10 +32,10 @@ function App() {
             Valdres
           </div>
           <div className="font-serif font-extrabold text-7xl text-center mb-10">
-            Vi trenger alle god journalistikk
+            Alt kan bli en god historie – hvis den blir fortalt riktig
           </div>
           <div className="font-sans text-2xl">
-            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres, men vil han få jobben?
+            Erling Rognhaugen søker jobb som frontsjef og nyhetsjeger i Avisa Valdres. Spørsmålet er: Får han sjansen til å fortelle historiene som vi vil bry oss om?
           </div>
         </div>
       </div>
@@ -57,7 +57,7 @@ function App() {
                   </p>
                 </blockquote>
                 <figcaption class="font-medium">
-                  <div class="text-cyan-600">Erling Rognhaugen (29)</div>
+                  <div class="text-cyan-600">Erling Rognhaugen (30)</div>
                   <div class="text-gray-500">Øystre Slidre</div>
                 </figcaption>
               </div>
@@ -65,20 +65,20 @@ function App() {
           </div>
           <div className="leading-relaxed text-2xl tracking-wide">
             <div className="mb-10">
-              <span className="font-serif text-6xl pr-2">H</span>ei, se det! Jeg heter Erling Rognhaugen, tilflytter til Øystre Slidre fra Kristiansand, og jeg søker denne stillingen fordi jeg er motivert av å fortelle historier som blir husket. Jeg er spesielt motivert av å skape god digital trafikk og har mange ideer for å sette dagsorden i Valdres. Jeg har de nødvendige ferdighetene, inkludert en digital og dramaturgisk kompetanse som skiller seg ut.
+              <span className="font-serif text-6xl pr-2">H</span>ei! Jeg heter Erling Rognhaugen, tilflytter til Øystre Slidre fra Kristiansand, og jeg søker stillingen fordi jeg brenner for historier som blir husket – og klikket på. Jeg er motivert av å skape god digital trafikk, og jeg har mange ideer til hvordan Avisa Valdres kan sette dagsorden i regionen.
             </div>
             <div className="mb-10">
-            De fleste ønsker å fortelle om seg selv, vi elsker dette, men bare noen få blir faktisk lyttet til. Det viktigste, tror jeg, er hvordan en historie blir fortalt, og så er det nest viktigste hva historien handler om.
+              Jeg har en bakgrunn som kombinerer journalistikk, dramaturgi, digital kompetanse og et sterkt visuelt blikk. Og jeg tror at måten vi forteller en historie på er viktigere enn hva den handler om.
+            </div>
+            <div className="text-3xl font-bold mb-3">
+              Da jeg lærte hvorfor formen betyr alt
             </div>
             <div className="mb-10">
-            Det var en gang da jeg studerte journalistikk i Volda og trodde at dette var den rette veien for meg, og jeg satt fremoverlent i vår lokale redaksjon og var nysgjerrig og gravde i mange saker, og en spesiell sak handlet om håndtering av asbest i rådhuset, der det var store reparasjoner uten at de ansatte fikk jobbet en annen plass, og som pustet dette inn, inn og ut, hver dag dette foregikk, inn og ut, og asbeststøv er nesten usynlig, eller det er så lite at vi ikke ser det, så historien er vanskelig å visualisere, som student var løsningen min å gå ned til Rådhuset og ta et bilde av inngangspartiet med et skilt der det stod "Volda Rådhus", og dette ble forsidebildet, som sier absolutt nada om selve historien, den hjelper den ikke nevneverdig, kanskje til og med ødelegger det for saken, for på forsiden vil saken, som egentlig var bra, virke kjedelig og dette ønsker jeg aldri å gjøre igjen.
-            </div>
+              Under journalistikkstudiet i Volda jobbet jeg med en sak om asbest i rådhuset – en alvorlig problemstilling. Jeg var engasjert, jeg gravde, jeg stilte spørsmål. Men da jeg skulle lage forsiden, valgte jeg et slapt bilde av rådhusskiltet. Det fortalte ingenting.            </div>
             <div className="mb-10">
-            Baktanken bak skrivestilen i teksten over er å illustrere at aviser setter punktum. Alle andre tar forhåpentligvis et innpust og utpust som en liten pause før de fortsetter å fortelle sin historie. Jeg vet at en effektiv frontsjef må tørre å utfordre formen for å trekke folk inn, og jeg ønsker aldri å velge et dårlig forsidebilde igjen. Punktumet stopper en fortelling, samtidig som det kan starte en ny etterpå. Det skrevne ordet er mektig, gøyalt og tankevekkende, avisene er regissøren til historien og frontsjefens ansvar er å finne disse elementene som vil trekker folk inn.
-            </div>
+              Den gode saken ble pakket inn i et kjedelig bilde. Et dårlig valg. Og viktigst: en erfaring jeg aldri har glemt.            </div>
             <div className="mb-10">
-            Hva ville jeg gjort annerledes nå om jeg skulle dekket aspestsaken på nytt? Hovedregelen min er å prøve å fortelle en historie i flere lag, som en kokk jobber for å lage en lengre smak ved å kombinere surt, salt, sødme og bittert, må journalistikken også bruke flere virkemidler. På andre siden av rådhuset var det et nytt fint bygg, ubrukt. Jeg kunne ha kontaktet eieren og spurt om å ta et bilde. Bildet ville hatt en ramme av et moderne vindu med utsikt over et slitt rådhus i solnedgang. Siden et menneske står bak enhver historie, så kunne et telelinsebilde av kommunesjefen for drift, som hadde unngått å svare på spørsmål i lang tid, men som går ut av bygget, være modig. Dette vil også kunne skape reaksjoner. Eller så kan det også være videointervjuer hvor alt man ser er en munn, som snakker og puster inn og ut. Disse vurderingene er viktig å ta som en redaksjon, og min kunsteriske bakgrunn gjør at jeg tenker mer på muligheter enn begrensninger, selv om Loven og Vær Varsom-plakaten alltid skal være styrende. 
-            </div>
+              I dag ville jeg gjort det annerledes. Jeg ville vist kontraster: et nytt bygg i forgrunnen, rådhuset i solnedgang, eller et telelinsebilde av driftssjefen som unngår spørsmål. Jeg ville brukt flere lag med virkemidler – som en kokk som balanserer surt, salt, søtt og bittert. For en sak som handler om liv og helse, fortjener en form som løfter den, ikke skjuler den.            </div>
             <div className="py-4">
               <img
                 src="/images/ingredienser.jpg"
@@ -90,26 +90,37 @@ function App() {
               </div>
             </div>
             <div className="text-3xl font-bold mb-3">
-              Erling vil gjerne ha jobben.
+              Hvorfor jeg forteller dette
             </div>
             <div className="mb-10">
-            Jeg har de kvalifikasjonene dere ser etter og jeg trives i en hektisk hverdag og vet hvordan jeg håndterer at det "koker". Jeg er nysgjerrig og åpen, og som nyhetsjeger er jeg klar til å rykke ut raskt for å dekke hendelser og sikre at Valdres er først ute med viktig informasjon. Jeg har en grunnleggende kunnskap i programmering i både frontend og backend og har jobbet i en prosjektstilling for Le Monde Diplomatique Norge med å oppgradere deres nettside (LMD.no). Dette er en unik styrke for Avisa Valdres' digitale satsing og fokus på digital trafikk. Jeg kan også fly drone bare for å legge til det :)
+              Fordi en frontsjef setter punktum. Et punktum som kan vekke nysgjerrighet, drive leseren videre – eller stoppe dem helt. Jeg vil være en frontsjef som tør å utfordre formen, som ser de små mulighetene i det store bildet, og som aldri velger et dårlig forsidebilde igjen.            </div>
+            <div className="text-3xl font-bold mb-3">
+              Hva jeg kan bidra med i Avisa Valdres
+            </div>
+            <ul>
+              <li>Rask og presis nyhetsjakt</li>
+              <li>Sterkt visuelt blikk og dramaturgisk forståelse</li>
+              <li>Erfaring som regissør, filmfotograf, lydtekniker og webutvikler</li>
+              <li>Programmeringskompetanse i både frontend og backend</li>
+              <li>Erfaring fra Le Monde Diplomatique Norge med digital oppgradering av nettsiden</li>
+              <li>Droneflyging (alltid nyttig!)</li>
+            </ul>
+            <div className="mb-10">
+              Jeg trives når det koker, og jeg er vant til å jobbe i kryssfeltet mellom kreativitet, teknologi og journalistikk. For meg er avisa en plattform – en møteplass – og jeg vil jobbe for at Avisa Valdres blir stedet folk oppsøker først, enten de leter etter informasjon, engasjement eller tilhørighet.
+            </div>
+            <div className="text-3xl font-bold mb-3">
+              Til slutt.
             </div>
             <div className="mb-10">
-            Det spennende med denne stillingen er å jobbe for å nå ut til flere brukere. Jeg liker muligheten dere tilbyr for brukerdeltakelse ved å legge inn et arrangement på nettsiden. En avis er i mine øyne er en plattform, en møteplass, og det skal hele tiden jobbes for å være den naturlige plassen som brukere oppsøker for å skaffe eller finne informasjon.
-            </div>
+              Jeg skal ikke legge skjul på det: Jeg har veldig lyst på denne jobben. Jeg tror jeg vil vokse på ansvaret, og jeg er trygg på at jeg kan bidra til å gjøre Avisa Valdres enda litt råere.            </div>
             <div className="mb-10">
-            Jeg føler meg klar til å gå tilbake til journalistikken, og på veien etter studiet i Volda har jeg tatt på meg andre roller som kokk, regissør, lydtekniker, filmfotograf, kunstner, lærer, webutvikler og skribent. En gryte full av variasjon kan du si, men som koker ned til å handle om å bli hørt, å bli sett, smake godt og sette et punktum. 
-            </div>
+              Jeg håper dere gir meg muligheten til å fortelle den neste gode historien – riktig.            </div>
             <div className="mb-10">
-            Jeg skal ikke lyve, jeg har veldig lyst på denne jobben. Jeg tror jeg vil vokse med ansvaret som person og utvikle meg faglig. Og dette vil kunne hjelpe Avisa Valdres med å bli enda litt råere!
-            </div>
-            <div className="mb-10">
-            Med vennlig hilsen, <br></br> 
-            Erling Rognhaugen
-            <br></br><br></br>
-            Mob. 91577993 <br></br>
-            Epost. Erlingrognhaugen@hotmail.com
+              Med vennlig hilsen, <br></br>
+              Erling Rognhaugen
+              <br></br><br></br>
+              Mob. 91577993 <br></br>
+              Epost. Erlingrognhaugen@hotmail.com
             </div>
           </div>
         </div>
