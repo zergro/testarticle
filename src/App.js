@@ -124,7 +124,7 @@ function App() {
             <div className="mb-10">
               Jeg skal ikke legge skjul på det: Jeg har veldig lyst på denne jobben. Jeg tror jeg vil vokse på ansvaret, og jeg er trygg på at jeg kan bidra til å gjøre Avisa Valdres enda litt råere.            </div>
             <div className="mb-10">
-              Jeg håper dere gir meg muligheten til å fortelle den neste gode historien – riktig.            </div>
+              Jeg håper dere gir meg muligheten til å finne og forme de gode historiene.            </div>
             <div className="mb-10">
               Med vennlig hilsen, <br></br>
               Erling Rognhaugen
