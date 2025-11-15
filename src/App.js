@@ -70,6 +70,11 @@ function App() {
             <div className="mb-10">
               Jeg har en bakgrunn som kombinerer journalistikk, dramaturgi, digital kompetanse og et sterkt visuelt blikk. Og jeg tror at måten vi forteller en historie på er viktigere enn hva den handler om.
             </div>
+            <div className="text-3xl font-bold mb-3">
+              Da jeg lærte hvorfor formen betyr alt
+            </div>
+            <div className="mb-10">
+              Under journalistikkstudiet i Volda jobbet jeg med en sak om asbest i rådhuset – en alvorlig problemstilling. Jeg var engasjert, jeg gravde, jeg stilte spørsmål. Men da jeg skulle lage forsiden, valgte jeg et slapt bilde av rådhusskiltet. Det fortalte ingenting.            </div>
             <div className="py-4">
               <img
                 src="/images/volda-radhus-passiv.jpg"
@@ -80,11 +85,6 @@ function App() {
                 EN VERDIFULL ERFARING: Hvor kjedelig er ikke et bilde som dette? Hjelper det historien?
               </div>
             </div>
-            <div className="text-3xl font-bold mb-3">
-              Da jeg lærte hvorfor formen betyr alt
-            </div>
-            <div className="mb-10">
-              Under journalistikkstudiet i Volda jobbet jeg med en sak om asbest i rådhuset – en alvorlig problemstilling. Jeg var engasjert, jeg gravde, jeg stilte spørsmål. Men da jeg skulle lage forsiden, valgte jeg et slapt bilde av rådhusskiltet. Det fortalte ingenting.            </div>
             <div className="mb-10">
               Den gode saken ble pakket inn i et kjedelig bilde. Et dårlig valg. Og viktigst: en erfaring jeg aldri har glemt.            </div>
             <div className="mb-10">
